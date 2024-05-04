@@ -8,6 +8,7 @@ public class LossFilterApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LossFilterApplication.class, args);
+	// asish maharama
 	}
 
 }
